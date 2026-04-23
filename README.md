@@ -63,7 +63,7 @@ Experiência com arquitetura serverless utilizando AWS (Lambda, API Gateway e Dy
 
 ## 🐍 Contribuições
 
-![snake gif](https://github.com/VinRamalho/VinRamalho/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/VinRamalho/VinRamalho/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
